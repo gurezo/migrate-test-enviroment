@@ -61,8 +61,8 @@ importers:
         specifier: ^29.5.13
         version: 29.5.14
       jasmine-core:
-        specifier: ~5.4.0
-        version: 5.4.0
+        specifier: ~5.5.0
+        version: 5.5.0
       jest:
         specifier: ^29.7.0
         version: 29.7.0(@types/node@20.14.9)(ts-node@10.9.2(@types/node@20.14.9)(typescript@5.7.2))
@@ -3269,8 +3269,8 @@ packages:
     engines: {node: '>=10'}
     hasBin: true
 
-  jasmine-core@5.4.0:
-    resolution: {integrity: sha512-T4fio3W++llLd7LGSGsioriDHgWyhoL6YTu4k37uwJLF7DzOzspz7mNxRoM3cQdLWtL/ebazQpIf/yZGJx/gzg==}
+  jasmine-core@5.5.0:
+    resolution: {integrity: sha512-NHOvoPO6o9gVR6pwqEACTEpbgcH+JJ6QDypyymGbSUIFIFsMMbBJ/xsFNud8MSClfnWclXd7RQlAZBz7yVo5TQ==}
 
   jest-changed-files@29.7.0:
     resolution: {integrity: sha512-fEArFiwf1BpQ+4bXSprcDc3/x4HSzL4al2tozwVpDFpsxALjLYdyiIK4e5Vz66GQJIbXJ82+35PtysofptNX2w==}
@@ -8597,7 +8597,7 @@ snapshots:
       filelist: 1.0.4
       minimatch: 3.1.2
 
-  jasmine-core@5.4.0: {}
+  jasmine-core@5.5.0: {}
 
   jest-changed-files@29.7.0:
     dependencies:
