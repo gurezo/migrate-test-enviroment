@@ -56,7 +56,7 @@ importers:
         version: 20.3.5(@angular/compiler@20.3.5)(typescript@5.9.3)
       '@types/jasmine':
         specifier: ~5.1.8
-        version: 5.1.10
+        version: 5.1.11
       '@types/jest':
         specifier: ^30.0.0
         version: 30.0.0
@@ -2739,8 +2739,8 @@ packages:
   '@types/istanbul-reports@3.0.4':
     resolution: {integrity: sha512-pk2B1NWalF9toCRu6gjBzR69syFjP4Od8WRAX+0mmf9lAjCRicLOWc+ZrxZHx/0XRjotgkF9t6iaMJ+aXcOdZQ==}
 
-  '@types/jasmine@5.1.10':
-    resolution: {integrity: sha512-ctILpOSFD58PTyGwr400GadefIHPqdWQ8VlZI9D65USOWR/aIw8dkDAw17KPCu/Wn+e+r9BWpPtmuB5T/pP8ng==}
+  '@types/jasmine@5.1.11':
+    resolution: {integrity: sha512-eAij9lMAsosuA8cvRcqw7p2vO+LUraktQDmOUFx2jAnya8NUchr3DryHksfhZbRzU83vzNUSZhlk1cFdoePxwA==}
 
   '@types/jest@30.0.0':
     resolution: {integrity: sha512-XTYugzhuwqWjws0CVz8QpM36+T+Dz5mTEBKhNs/esGLnCIlGdRy+Dq78NRjd7ls7r8BC8ZRMOrKlkO1hU0JOwA==}
@@ -8912,7 +8912,7 @@ snapshots:
     dependencies:
       '@types/istanbul-lib-report': 3.0.3
 
-  '@types/jasmine@5.1.10': {}
+  '@types/jasmine@5.1.11': {}
 
   '@types/jest@30.0.0':
     dependencies:
