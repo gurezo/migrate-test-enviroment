@@ -29,7 +29,7 @@
     "@angular/compiler-cli": "^21.0.0",
     "@types/jasmine": "~5.1.8",
     "@types/jest": "^30.0.0",
-    "jasmine-core": "~5.13.0",
+    "jasmine-core": "~6.0.0",
     "jest": "^30.0.0",
     "jest-preset-angular": "^16.0.0",
     "typescript": "~5.9.0"
